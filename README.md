@@ -1,4 +1,4 @@
-# room_simulation_2d
+# fluid_simulation_2d
 # 2D流体シミュレーション（移流・拡散モデル）
 
 ## 概要
